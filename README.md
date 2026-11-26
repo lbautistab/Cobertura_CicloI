@@ -4,6 +4,8 @@ Mapa dinámico de la población de 0 a 2 años (Ciclo I) coberturada por los ser
 
 **[Ver el mapa interactivo](https://lbautistab.github.io/Cobertura_CicloI/)**
 
+![Vista del mapa dinámico de cobertura del Ciclo I, vista MINEDU](img/vista_mapa.png)
+
 ## Cifras clave (Perú, 2025)
 
 | Indicador | MINEDU | MINEDU + Cuna Más |

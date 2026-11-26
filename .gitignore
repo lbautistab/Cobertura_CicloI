@@ -6,7 +6,7 @@
 
 # Datos y logos locales (no se publican)
 *.xlsx
-*.png
+/*.png
 
 # Sistema
 .DS_Store
