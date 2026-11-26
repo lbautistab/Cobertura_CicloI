@@ -1,4 +1,4 @@
-# Ciclo I: Cobertura de la población de 0 a 2 años, 2025
+# Cobertura de la población de 0 a 2 años, 2025
 
 Mapa dinámico de la población de 0 a 2 años (Ciclo I) coberturada por los servicios educativos del **MINEDU** y por el Servicio de Cuidado Diurno (SCD) del **Programa Nacional Cuna Más**, según distritos, 2025.
 
