@@ -1,0 +1,13 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*_files/
+
+# Datos y logos locales (no se publican)
+*.xlsx
+*.png
+
+# Sistema
+.DS_Store
+Thumbs.db
